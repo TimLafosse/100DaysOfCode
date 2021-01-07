@@ -36,7 +36,7 @@
 * Start more indepth FCC video on pointers
 * remake Unreal repo and move to own github repo so can have active updates on Github activity
 
-### Day 3: 04/01/2021 
+### Day 3: 06/01/2021 
 
 **Today's Progress**: Took a day off yesterday to rethink if C++/Unreal is right for me and am instead moving back over to JS with a focus on making VR games in each fo the the three main VR frameworks. I am working towards winning the WebXR category of the js13kgames competetiion. 
 
@@ -49,3 +49,15 @@
 * move this log and other useful files from 100doc to own github repo so can have active updates on Github activity
 * choose a frameowrk and make a repo
 * get started with docs from that framework.
+
+### Day 4: 07/01/2021 
+
+**Today's Progress**: Made a repo to get started with a-fram, sorted Github repos/profile, and played about with hosting a remote server on my local etwork with http.server and ngrok 
+**Thoughts:** Loving the switch and buzzing for tomorrow
+
+
+**Link to work:** [a-frame repo](https://github.com/TimLafosse/a-frame_test)
+
+**Tomorrow's goals**: 
+* continue with a-frame walkthrough
+* find easiest way to jump in to project on Quest 2 
