@@ -61,3 +61,16 @@
 **Tomorrow's goals**: 
 * continue with a-frame walkthrough
 * find easiest way to jump in to project on Quest 2 
+
+
+### Day 5: 08/01/2021 
+
+**Today's Progress**: Tried to get the a-frame-inspector up and running to allow me to easily edit stuff and live edit my code, but struggled, think I may need a different version of a-frame. Also joined slack groups and WebVR groups in the hope of contributing more to the community.
+**Thoughts:** Wasn't feeling it too much today and had a little doubt cast in to my mind. I must ignore these feelings and keep working though
+
+
+**Link to work:** [a-frame repo](https://github.com/TimLafosse/a-frame_test)
+
+**Tomorrow's goals**: 
+* get a-frame-inspector and live edit working
+* find easiest way to jump in to project on Quest 2 
