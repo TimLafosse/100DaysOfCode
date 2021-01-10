@@ -75,7 +75,7 @@
 * get a-frame-inspector and live edit working
 * find easiest way to jump in to project on Quest 2 
 
-### Day 5: 08/01/2021 
+### Day 6: 09/01/2021 
 
 **Today's Progress**: Managed to get the inspector working after unearthing that my keyboard wasn't correct for the shortcut to work. I also got the watcher working but decided against it as it uses an older version of a-frame. A-frame also inspector allows editing in the borwser and easy copying of the resulting html
 **Thoughts:** Was close to giving up on the inspector but am glad I stuck it out. Feeling mor clear in my mind that this is the way forward. I am buying low and selling high on this budding technology, and investing in my knowledge portfolio
@@ -85,4 +85,18 @@
 
 **Tomorrow's goals**: 
 * Play about with editing code of games in js13k that used a-frame
+* find easiest way to jump in to project on Quest 2 
+
+### Day 6: 10/01/2021 
+
+**Today's Progress**: Found out I was using an old version of the inspector (0.7.0) and not the most recent (1.1.0) which meant that the copy html feature did not work, and has now been removed in newer versions.
+**Thoughts:** Really enjoyed skimming the A-frame school and going off to look a little closer at other things in the docs for inspiration for my game.
+
+
+**Link to work:** [a-frame repo](https://github.com/TimLafosse/a-frame_test)
+
+**Tomorrow's goals**: 
+* 
+* Play about with editing code of games in js13k that used a-frame
+* try and minify + strip down spiderman code (make a smaller room + platforms)
 * find easiest way to jump in to project on Quest 2 
