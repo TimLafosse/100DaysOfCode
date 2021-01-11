@@ -87,10 +87,10 @@
 * Play about with editing code of games in js13k that used a-frame
 * find easiest way to jump in to project on Quest 2 
 
-### Day 6: 10/01/2021 
+### Day 7: 10/01/2021 
 
-**Today's Progress**: Found out I was using an old version of the inspector (0.7.0) and not the most recent (1.1.0) which meant that the copy html feature did not work, and has now been removed in newer versions.
-**Thoughts:** Really enjoyed skimming the A-frame school and going off to look a little closer at other things in the docs for inspiration for my game.
+**Today's Progress**: Found out I was using an old version of the inspector (0.7.0) and not the most recent (1.1.0) which meant that 
+**Thoughts:** Was close to giving up on the inspector but am glad I stuck it out. Feeling mor clear in my mind that this is the way forward. I am buying low and selling high on this budding technology, and investing in my knowledge portfolio
 
 
 **Link to work:** [a-frame repo](https://github.com/TimLafosse/a-frame_test)
@@ -100,3 +100,18 @@
 * Play about with editing code of games in js13k that used a-frame
 * try and minify + strip down spiderman code (make a smaller room + platforms)
 * find easiest way to jump in to project on Quest 2 
+
+### Day 8: 11/01/2021 
+
+**Today's Progress**: Learned about assets and how they are hosted and retireved with CORS (albeit a lot of it went over my head). A very useful concept to cover in more detail at a later point. I also check out the WebXR games hosted on consructarcade by the chaps who host White Rabbit XR podcast
+**Thoughts:** Didn't feel great today, but more generally in my self than anything code related. Doesn't help that I am not feeling too well. Nevertheless, I am happy with the progress I am making and look forward to producing a a project worthy of constructarcade
+
+
+**Link to work:** [a-frame repo](https://github.com/TimLafosse/a-frame_test)
+
+**Tomorrow's goals**: 
+* 
+* Play about with editing code of games in js13k that used a-frame
+* try and minify + strip down spiderman code (make a smaller room + platforms)
+* find easiest way to jump in to project on Quest 2 
+
