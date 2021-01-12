@@ -115,3 +115,18 @@
 * try and minify + strip down spiderman code (make a smaller room + platforms)
 * find easiest way to jump in to project on Quest 2 
 
+### Day 9: 12/01/2021 
+
+**Today's Progress**: Needed a lie in so I split my hour in to two today, the first half I looked further in to CORS, HTTP and the Web on MDN (really great resource provider), also read some Prag Prog. Finished by looking at some A-frame school
+**Thoughts:** Splitting my hour wasn't a good decision. It meant that anxieties and doubt related to work and other aspects of life crept in, making it hard to focus in the latter half. Doubted my VR passion somewhat today. I must remember that while I made the correct) decision to not get in to Unreal/Unity game development, it doesn't mean I need to turn away form CR in passion projects completely. Keep going, it will be worth it.
+
+
+**Link to work:** [a-frame repo](https://github.com/TimLafosse/a-frame_test)
+
+**Tomorrow's goals**: 
+* 
+* Finish A-frame school so I can start on game
+* Play about with editing code of games in js13k that used a-frame
+* try and minify + strip down spiderman code (make a smaller room + platforms)
+* find easiest way to jump in to project on Quest 2 
+
