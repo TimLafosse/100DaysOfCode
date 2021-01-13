@@ -130,3 +130,19 @@
 * try and minify + strip down spiderman code (make a smaller room + platforms)
 * find easiest way to jump in to project on Quest 2 
 
+### Day 10: 13/01/2021 
+
+**Today's Progress**: Intended to push on with a-frame school but got distracted with trying to get aframe-watcher to work, which I largely did. I also posted my first issue on github which was exciting.
+**Thoughts:** I am glad I stuck out trying to get the watcher working as best I can. Having it partially working is better than not at all.
+
+
+**Link to work:** [a-frame repo](https://github.com/TimLafosse/a-frame_test)
+
+**Tomorrow's goals**: 
+*
+* FUrther investigate extent of aframe-watcher bug 
+* Finish A-frame school so I can start on game
+* Play about with editing code of games in js13k that used a-frame
+* try and minify + strip down spiderman code (make a smaller room + platforms)
+* find easiest way to jump in to project on Quest 2 
+
