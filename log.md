@@ -139,10 +139,25 @@
 **Link to work:** [a-frame repo](https://github.com/TimLafosse/a-frame_test)
 
 **Tomorrow's goals**: 
-*
+
 * FUrther investigate extent of aframe-watcher bug 
 * Finish A-frame school so I can start on game
 * Play about with editing code of games in js13k that used a-frame
 * try and minify + strip down spiderman code (make a smaller room + platforms)
 * find easiest way to jump in to project on Quest 2 
+* watch fcc video on js13kgames winners
 
+### Day 11: 14/01/2021 
+
+**Today's Progress**: Wored on adding animations and other things from the A-frame Registry. THese will no doubt come in useful when I make my game.
+**Thoughts:** Didn't find the Registry stuff to interesting today. The design element of game development doesn't appeal to me. I look forward to diving in to JS and linking that to my work.
+
+**Link to work:** [a-frame repo](https://github.com/TimLafosse/a-frame_test)
+
+**Tomorrow's goals**: 
+
+* Finish A-frame school so I can start on game
+* Play about with editing code of games in js13k that used a-frame
+* try and minify + strip down spiderman code (make a smaller room + platforms)
+* find easiest way to jump in to project on Quest 2 
+* watch fcc video on js13kgames winners
