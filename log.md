@@ -149,13 +149,29 @@
 
 ### Day 11: 14/01/2021 
 
-**Today's Progress**: Wored on adding animations and other things from the A-frame Registry. THese will no doubt come in useful when I make my game.
+**Today's Progress**: Worked on adding animations and other things from the A-frame Registry. THese will no doubt come in useful when I make my game.
 **Thoughts:** Didn't find the Registry stuff to interesting today. The design element of game development doesn't appeal to me. I look forward to diving in to JS and linking that to my work.
 
 **Link to work:** [a-frame repo](https://github.com/TimLafosse/a-frame_test)
 
 **Tomorrow's goals**: 
 
+* Finish A-frame school so I can start on game
+* Play about with editing code of games in js13k that used a-frame
+* try and minify + strip down spiderman code (make a smaller room + platforms)
+* find easiest way to jump in to project on Quest 2 
+* watch fcc video on js13kgames winners
+
+### Day 12: 15/01/2021 
+
+**Today's Progress**: Continued on A-frame school and picked up some JS again. Played with the querySelector and setAttribute methods + plus the added functionality A-frame has built in to the JS methods.
+**Thoughts:** Was refreshing to work with some JS code again. I feel a little more motivated to keep going today, now that I've had a glimpse at how technologies I am familiar with can be used with A-frame 
+
+**Link to work:** [a-frame repo](https://github.com/TimLafosse/a-frame_test)
+
+**Tomorrow's goals**: 
+
+* Create a Ruby script that adds a new log entry to here
 * Finish A-frame school so I can start on game
 * Play about with editing code of games in js13k that used a-frame
 * try and minify + strip down spiderman code (make a smaller room + platforms)
