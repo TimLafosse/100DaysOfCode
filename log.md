@@ -177,3 +177,20 @@
 * try and minify + strip down spiderman code (make a smaller room + platforms)
 * find easiest way to jump in to project on Quest 2 
 * watch fcc video on js13kgames winners
+
+### Day 13: 16/01/2021 
+
+**Today's Progress**: Decided to spend some time writing a script that will allow me to add log entries automatically to this file, which will make finishing up one of my 100 Days that much faster. Strugglign to link my Ruby SDK to Rubymine
+**Thoughts:** Glad I decided to do this little side project, it will be rewarding and make my life that much easier. Scripting is what got me started on coding, and I havent given myslef enough time to really enjoy it now that I am passed the beginner stage.
+
+**Link to work:** [a-frame repo](https://github.com/TimLafosse/a-frame_test)
+
+**Tomorrow's goals**: 
+
+* Create a Ruby script that adds a new log entry to here + tidy up this docs formatting
+* Find out how to commit an push from rubymine
+* Finish A-frame school so I can start on game
+* Play about with editing code of games in js13k that used a-frame
+* try and minify + strip down spiderman code (make a smaller room + platforms)
+* find easiest way to jump in to project on Quest 2 
+* watch fcc video on js13kgames winners
