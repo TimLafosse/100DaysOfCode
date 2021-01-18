@@ -194,3 +194,41 @@
 * try and minify + strip down spiderman code (make a smaller room + platforms)
 * find easiest way to jump in to project on Quest 2 
 * watch fcc video on js13kgames winners
+
+
+### Day 14: 17/01/2021 
+
+**Today's Progress**: Managed to link the Ruby SDK to Rubymine and started creating a method that will pull out each line that includes a date in it
+**Thoughts:** Getting Rubymine set up was more of a hassle than expected, but I am glad I did. JetBrains have some great IDEs and it will be nice to learn more about them in my free time.
+
+**Link to work:** [a-frame repo](https://github.com/TimLafosse/a-frame_test)
+
+**Tomorrow's goals**: 
+
+**Current todo**: Create a Ruby script that adds a new log entry to here + tidy up this docs formatting
+
+* Find out how to commit an push from rubymine
+* Finish A-frame school so I can start on game
+* Play about with editing code of games in js13k that used a-frame
+* try and minify + strip down spiderman code (make a smaller room + platforms)
+* find easiest way to jump in to project on Quest 2 
+* watch fcc video on js13kgames winners
+
+### Day 15: 18/01/2021 
+
+**Today's Progress**: Managed to link the Ruby SDK to Rubymine and started creating a method that will pull out each line that includes a date in it
+**Thoughts:** Getting Rubymine set up was more of a hassle than expected, but I am glad I did. JetBrains have some great IDEs and it will be nice to learn more about them in my free time.
+
+**Link to work:** [a-frame repo](https://github.com/TimLafosse/a-frame_test)
+
+**Tomorrow's goals**: Continue writing add_log_entry script
+
+**Current todo**: Finish a Ruby script that adds a new log entry to here + tidy up this docs formatting
+
+* Find out how to commit an push from rubymine
+* Finish A-frame school so I can start on game
+* Play about with editing code of games in js13k that used a-frame
+* try and minify + strip down spiderman code (make a smaller room + platforms)
+* find easiest way to jump in to project on Quest 2 
+* watch fcc video on js13kgames winners
+
