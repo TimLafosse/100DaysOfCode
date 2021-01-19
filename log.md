@@ -232,3 +232,20 @@
 * find easiest way to jump in to project on Quest 2 
 * watch fcc video on js13kgames winners
 
+### Day 16: 19/01/2021 
+
+**Today's Progress**: worked on script more, copied over watir script for speeding up filling in Pension creds
+**Thoughts:** Rather tired and unmotivasted today
+
+**Link to work:** [a-frame repo](https://github.com/TimLafosse/a-frame_test)
+
+**Tomorrow's goals**: Get Watir script working
+**Current todo**: SECURE Watir script created
+
+* Find out how to commit an push from rubymine
+* Finish A-frame school so I can start on game
+* Play about with editing code of games in js13k that used a-frame
+* try and minify + strip down spiderman code (make a smaller room + platforms)
+* find easiest way to jump in to project on Quest 2 
+* watch fcc video on js13kgames winners
+
