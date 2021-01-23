@@ -254,9 +254,45 @@
 **Today's Progress**: made simple methods with the aim of just making a simple, messy script that works
 **Thoughts:** Writing something then refactoring is better than moving agonisingly slow and focussing on every tiny detail. Some good advice given was to start at the top level, keeping everything as simple as possible then work you're way down in to the weeds to hide complexity
 
-**Link to work:** [a-frame repo](https://github.com/TimLafosse/100DaysOfCode)
+**Link to work:** [100 Days of code](https://github.com/TimLafosse/100DaysOfCode)
 
 **Current todo**: add a basic log entry script
+
+* categorise todos and create a projects section
+* SECURE Watir script created
+* Find out how to commit an push from rubymine
+* Finish A-frame school so I can start on game
+* Play about with editing code of games in js13k that used a-frame
+* try and minify + strip down spiderman code (make a smaller room + platforms)
+* find easiest way to jump in to project on Quest 2 
+* watch fcc video on js13kgames winners
+
+### Day 18: 22/01/2021 
+
+**Today's Progress**: pcied up A-frame again and continued working through the school
+**Thoughts:** Felt a lot doubt towards continuing on this project, I just don't feel as motivated as i did. Can't stop thinking about a reddit post about the lack of a need to create projects once you have a job in the industry. Maybe after this long I should just pick up an extra project at work to do in this time? I might be more motivated to keep going
+
+**Link to work:** [100 Days of code](https://github.com/TimLafosse/100DaysOfCode)
+
+**Current todo**: Finish A-frame school
+
+* categorise todos and create a projects section
+* SECURE Watir script created
+* Find out how to commit an push from rubymine
+* Finish A-frame school so I can start on game
+* Play about with editing code of games in js13k that used a-frame
+* try and minify + strip down spiderman code (make a smaller room + platforms)
+* find easiest way to jump in to project on Quest 2 
+* watch fcc video on js13kgames winners
+
+### Day 19: 23/01/2021 
+
+**Today's Progress**: Continued with A-frame school and spent most of the day trying to understand adding event listeners
+**Thoughts:** Forgot how hard JS can be. Although today I was frustrated, I feel good for having a go and look forward to tomorrow where I am sure I will figure it out by understanding the concept
+
+**Link to work:** [a-frame repo](https://github.com/TimLafosse/a-frame_test)
+
+**Current todo**: Finish A-frame school
 
 * categorise todos and create a projects section
 * SECURE Watir script created
