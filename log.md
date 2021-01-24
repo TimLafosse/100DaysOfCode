@@ -303,4 +303,24 @@
 * find easiest way to jump in to project on Quest 2 
 * watch fcc video on js13kgames winners
 
+### Day 20: 24/01/2021 
+
+**Today's Progress**: Continued with A-frame school and spent most of the day still trying to understand adding event listeners. Mangaed to get an example working but got stuck on the one outlined in the docs and posted on slack for help
+**Thoughts:** Really was not feeling well today but managed to stay as focusssed as I could. A-frame is really dragging. I really need to start work on a project soon
+
+**Link to work:** [a-frame repo](https://github.com/TimLafosse/a-frame_test)
+
+**Current todo**: Finish A-frame school
+
+* Await Slack response to collision listener example
+* categorise todos and create a projects section
+* SECURE Watir script created
+* Find out how to commit an push from rubymine
+* Finish A-frame school so I can start on game
+* Play about with editing code of games in js13k that used a-frame
+* try and minify + strip down spiderman code (make a smaller room + platforms)
+* find easiest way to jump in to project on Quest 2 
+* watch fcc video on js13kgames winners
+
+
 
