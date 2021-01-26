@@ -322,5 +322,24 @@
 * find easiest way to jump in to project on Quest 2 
 * watch fcc video on js13kgames winners
 
+### Day 21: 26/01/2021 
+
+**Today's Progress**: Answered a slack message that linked to the aframe-super-hands-component repo which gave a physics based example with an event listener. Couldn't quite get it working though
+**Thoughts:** Glad I messaged the slack channel when I got stuck as the response that was given has led me to a resource rich with information on how more fleshed out examples look.
+
+**Link to work:** [a-frame repo](https://github.com/TimLafosse/a-frame_test)
+
+**Current todo**: Get aframe-super-hands-component example working
+
+* Message Slack response about collision listener example if still stuck
+* categorise todos and create a projects section
+* SECURE Watir script created
+* Find out how to commit an push from rubymine
+* Finish A-frame school so I can start on game
+* Play about with editing code of games in js13k that used a-frame
+* try and minify + strip down spiderman code (make a smaller room + platforms)
+* find easiest way to jump in to project on Quest 2 
+* watch fcc video on js13kgames winners
+
 
 
