@@ -341,5 +341,26 @@
 * find easiest way to jump in to project on Quest 2 
 * watch fcc video on js13kgames winners
 
+### Day 22: 31/01/2021 
+
+**Today's Progress**: After a lot of thinking I've decided to halt progress on A-frame for now. What is more important right now is improving my existing skills, namely in react. I have picked up my work on react-testing-library and also refreshed my knowledge on what the difference between React, ReactDOM and the DOM are.
+**Thoughts:**  While it was fun exploring a completely new kind of coding and scratching a more creative itch with A-frame, I am glad to ve moving back to something that will benefit me professionally as well as personally.
+
+**Link to work:** Cannot include just yet
+
+**Current todo**: Set up react-test-library
+
+**Shelved A-frame todos**
+* Message Slack response about collision listener example if still stuck
+* categorise todos and create a projects section
+* SECURE Watir script created
+* Find out how to commit an push from rubymine
+* Finish A-frame school so I can start on game
+* Play about with editing code of games in js13k that used a-frame
+* try and minify + strip down spiderman code (make a smaller room + platforms)
+* find easiest way to jump in to project on Quest 2 
+* watch fcc video on js13kgames winners
+
+
 
 
