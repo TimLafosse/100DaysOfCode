@@ -361,6 +361,26 @@
 * find easiest way to jump in to project on Quest 2 
 * watch fcc video on js13kgames winners
 
+### Day 22: 31/01/2021 
+
+**Today's Progress**: Needed a project to implement a testing ibrary on so am using a boilerplate from a tutorial from a while back to build on top of.
+**Thoughts:** Glad to be back on it after a few weeks of due to work being busy. 
+
+**Link to work:** Cannot include just yet
+
+**Current todo**: Find version of boilerplate that I understand completely in tutorial and pull in styling/components missing.
+
+**Shelved A-frame todos**
+* Message Slack response about collision listener example if still stuck
+* categorise todos and create a projects section
+* SECURE Watir script created
+* Find out how to commit an push from rubymine
+* Finish A-frame school so I can start on game
+* Play about with editing code of games in js13k that used a-frame
+* try and minify + strip down spiderman code (make a smaller room + platforms)
+* find easiest way to jump in to project on Quest 2 
+* watch fcc video on js13kgames winners
+
 
 
 
