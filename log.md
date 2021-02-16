@@ -383,7 +383,7 @@
 
 ### Day 24: 14/02/2021 
 
-**Today's Progress**: Needed a project to implement a testing ibrary on so am using a boilerplate from a tutorial from a while back to build on top of.
+**Today's Progress**: Needed a project to implement a testing library on so am using a boilerplate from a tutorial from a while back to build on top of.
 **Thoughts:** Glad to be back on it after a few weeks of due to work being busy. 
 
 **Link to work:** Cannot include just yet
@@ -404,5 +404,53 @@
 * find easiest way to jump in to project on Quest 2 
 * watch fcc video on js13kgames winners
 
+### Day 25: 15/02/2021 
+
+**Today's Progress**: Now I have a old project set up with git, I can start work on the cpre functioanloty of the app and deciding which features from a tutorial I did to follow
+**Thoughts:** Very tired today but still felt moticated to push through the errors I was getting in the git setup yesterday. 
+
+**Link to work:** [expense_app](https://github.com/TimLafosse/expense_app)
+
+**Current todo**: Get git boilerplate up and running before pulling in extra features from boilerplate individually
+
+**Shelved misc todos**
+* Ruby script to automate adding new log entry
+* implement Firebase authentication with google to keep expenses private
+
+**Shelved A-frame todos**
+* Message Slack response about collision listener example if still stuck
+* categorise todos and create a projects section
+* SECURE Watir script created
+* Find out how to commit an push from rubymine
+* Finish A-frame school so I can start on game
+* Play about with editing code of games in js13k that used a-frame
+* try and minify + strip down spiderman code (make a smaller room + platforms)
+* find easiest way to jump in to project on Quest 2 
+* watch fcc video on js13kgames winners
+
+### Day 26: 16/02/2021 
+
+**Today's Progress**: Moved back to VSC due to IDEA community edition being too limited for JS development. Learnt about webpack production builds and why they are smaller and more efficient (use less source maps)
+**Thoughts:** Feeling like I should just finish my old ReactJS tutorial in order to give me a baseline of an entire deployed app that I can then edit and reimplement features (e.g. AWS instead of Firebase). For now it is a good fallback for days liek today when I am tired and struggling to focus.
+
+**Link to work:** [expense_app](https://github.com/TimLafosse/expense_app)
+
+**Current todo**: Get git boilerplate up and running before pulling in extra features from boilerplate individually
+
+**Shelved misc todos**
+* Ruby script to automate adding new log entry
+* implement Firebase authentication with google to keep expenses private
+* wrtie in programming journal more
+
+**Shelved A-frame todos**
+* Message Slack response about collision listener example if still stuck
+* categorise todos and create a projects section
+* SECURE Watir script created
+* Find out how to commit an push from rubymine
+* Finish A-frame school so I can start on game
+* Play about with editing code of games in js13k that used a-frame
+* try and minify + strip down spiderman code (make a smaller room + platforms)
+* find easiest way to jump in to project on Quest 2 
+* watch fcc video on js13kgames winners
 
 
