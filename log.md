@@ -453,4 +453,28 @@
 * find easiest way to jump in to project on Quest 2 
 * watch fcc video on js13kgames winners
 
+### Day 27: 17/02/2021 
+
+**Today's Progress**: Had a reading day and knocked out a chapter on Orthogonality in TPP today. Only thing left are the end of chapter exercises
+**Thoughts:** Really enjoyed a change of activity and felt I tackled the chapter well considering I was still waking up. In the future I must be sure to not gloss over code fragments or section I don't fully understand
+
+**Link to work:** [expense_app](https://github.com/TimLafosse/expense_app)
+
+**Current todo**: Get git boilerplate up and running before pulling in extra features from boilerplate individually
+
+**Shelved misc todos**
+* Ruby script to automate adding new log entry
+* implement Firebase authentication with google to keep expenses private
+* wrtie in programming journal more
+
+**Shelved A-frame todos**
+* Message Slack response about collision listener example if still stuck
+* categorise todos and create a projects section
+* SECURE Watir script created
+* Find out how to commit an push from rubymine
+* Finish A-frame school so I can start on game
+* Play about with editing code of games in js13k that used a-frame
+* try and minify + strip down spiderman code (make a smaller room + platforms)
+* find easiest way to jump in to project on Quest 2 
+* watch fcc video on js13kgames winners
 
