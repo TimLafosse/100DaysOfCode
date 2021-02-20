@@ -478,3 +478,28 @@
 * find easiest way to jump in to project on Quest 2 
 * watch fcc video on js13kgames winners
 
+### Day 28: 20/02/2021 
+
+**Today's Progress**: Learned about express.js and creating a basic server as well as webpack in production
+**Thoughts:** Focussed on skimming through a few quick tutorials and am just listening and following along instead of wasting my time taking notes or anything 
+
+**Link to work:** [expense_app](https://github.com/TimLafosse/expense_app)
+
+**Current todo**: Continue settin up until I get to the point where I have a live app that I can set up authentication on with Amplify
+
+**Shelved misc todos**
+* Ruby script to automate adding new log entry
+* implement Firebase authentication with google to keep expenses private
+* wrtie in programming journal more
+
+**Shelved A-frame todos**
+* Message Slack response about collision listener example if still stuck
+* categorise todos and create a projects section
+* SECURE Watir script created
+* Find out how to commit an push from rubymine
+* Finish A-frame school so I can start on game
+* Play about with editing code of games in js13k that used a-frame
+* try and minify + strip down spiderman code (make a smaller room + platforms)
+* find easiest way to jump in to project on Quest 2 
+* watch fcc video on js13kgames winners
+
