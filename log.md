@@ -503,3 +503,28 @@
 * find easiest way to jump in to project on Quest 2 
 * watch fcc video on js13kgames winners
 
+### Day 29: 21/02/2021 
+
+**Today's Progress**: Used Heroku to deploy an app as well as how to seperate dev dependencies in package.json, separating those that I do not need in production e.g testing packages
+**Thoughts:** Glad I am working through some of the extra bits of the react tutorial that are more to do with prouciton and 3rd party software rather than react development itslef. These will no doubt come in useful when I come to redeploy my app with AWS
+
+**Link to work:** [expense_app](https://github.com/TimLafosse/expense_app)
+
+**Current todo**: Continue settin up until I get to the point where I have a live app that I can set up authentication on with Amplify/Elastic beanstalk
+
+**Shelved misc todos**
+* Ruby script to automate adding new log entry
+* implement Firebase authentication with google to keep expenses private
+* wrtie in programming journal more
+
+**Shelved A-frame todos**
+* Message Slack response about collision listener example if still stuck
+* categorise todos and create a projects section
+* SECURE Watir script created
+* Find out how to commit an push from rubymine
+* Finish A-frame school so I can start on game
+* Play about with editing code of games in js13k that used a-frame
+* try and minify + strip down spiderman code (make a smaller room + platforms)
+* find easiest way to jump in to project on Quest 2 
+* watch fcc video on js13kgames winners
+
