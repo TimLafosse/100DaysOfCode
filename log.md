@@ -554,3 +554,52 @@
 * find easiest way to jump in to project on Quest 2 
 * watch fcc video on js13kgames winners
 
+### Day 31-3: 01-03/03/2021 
+
+**Today's Progress**: Read a few chapters of The pragmatic programmer, covering multiple inheritance, orthogonality, reversibility and domain languages. 
+**Thoughts:**  Was glad to get back in to reading more TPP. The more I read, the easier it is to pick up again. The thing that has really stuck with me in the past week was a section on tracer bullets that included a diagram of the various layers of the software onion. From outside to in it goes, User Interface -> Authentication -> Business Logic -> Data Model -> Database. I knew all of these parts existed but had never seen them grouped together. It go me thinking about which parts of this cycel I enjoy the most. Having done a  lot of front end develoment at work recently. I'd certainly have to say that the UI/Authentication is what I prefer the most and am always the most happy to return to. Maybe it's my web dev roots or maybe I am just better at it. Who knows.
+
+**Link to work:** [expense_app](https://github.com/TimLafosse/expense_app)
+
+**Current todo**: Continue settin up until I get to the point where I have a live app that I can set up authentication on with Amplify/Elastic beanstalk
+
+**Shelved misc todos**
+* Ruby script to automate adding new log entry
+* implement Firebase authentication with google to keep expenses private
+* wrtie in programming journal more
+
+**Shelved A-frame todos**
+* Message Slack response about collision listener example if still stuck
+* categorise todos and create a projects section
+* SECURE Watir script created
+* Find out how to commit an push from rubymine
+* Finish A-frame school so I can start on game
+* Play about with editing code of games in js13k that used a-frame
+* try and minify + strip down spiderman code (make a smaller room + platforms)
+* find easiest way to jump in to project on Quest 2 
+* watch fcc video on js13kgames winners
+
+### Day 34: 05/03/2021 
+
+**Today's Progress**: Picked up my expense app and did writing in JS for a feature which will add up all given expense for a given period as well as give he number of expenses
+**Thoughts:** I need to give myslef more oppurtunities to write in JS. I'm feeling rather rusty
+
+**Link to work:** [expense_app](https://github.com/TimLafosse/expense_app)
+
+**Current todo**: Continue settin up until I get to the point where I have a live app that I can set up authentication on with Amplify/Elastic beanstalk
+
+**Shelved misc todos**
+* Ruby script to automate adding new log entry
+* implement Firebase authentication with google to keep expenses private
+* wrtie in programming journal more
+
+**Shelved A-frame todos**
+* Message Slack response about collision listener example if still stuck
+* categorise todos and create a projects section
+* SECURE Watir script created
+* Find out how to commit an push from rubymine
+* Finish A-frame school so I can start on game
+* Play about with editing code of games in js13k that used a-frame
+* try and minify + strip down spiderman code (make a smaller room + platforms)
+* find easiest way to jump in to project on Quest 2 
+* watch fcc video on js13kgames winners
