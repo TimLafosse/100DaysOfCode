@@ -603,3 +603,29 @@
 * try and minify + strip down spiderman code (make a smaller room + platforms)
 * find easiest way to jump in to project on Quest 2 
 * watch fcc video on js13kgames winners
+
+### Day 35: 08/03/2021 
+
+**Today's Progress**: After googleing how the reduce method works, got sidetracked in to what the 'prototype' in Array.prototype.reduce() meant. I am still looking in to it but my loose understanding so far is that every object has a prototype and each prototype has a prototype (a pattern that continues untill null is reached). I'm still trying to understnad whether this applies to all JS objects or just a subset, but it's interesting for sure.
+**Thoughts:** Happy that I took the time to research something that I had clicked on many times when looking in to another JS method. This hour of coding is about digging deeper in to topics and broadening my unserstanding of not just React of even JS but programming in general.
+
+**Link to work:** [expense_app](https://github.com/TimLafosse/expense_app)
+
+**Current todo**: Continue settin up until I get to the point where I have a live app that I can set up authentication on with Amplify/Elastic beanstalk
+
+**Shelved misc todos**
+* Finish reading [MDN docs on prototypes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/getPrototypeOf)
+* Ruby script to automate adding new log entry
+* implement Firebase authentication with google to keep expenses private
+* wrtie in programming journal more
+
+**Shelved A-frame todos**
+* Message Slack response about collision listener example if still stuck
+* categorise todos and create a projects section
+* SECURE Watir script created
+* Find out how to commit an push from rubymine
+* Finish A-frame school so I can start on game
+* Play about with editing code of games in js13k that used a-frame
+* try and minify + strip down spiderman code (make a smaller room + platforms)
+* find easiest way to jump in to project on Quest 2 
+* watch fcc video on js13kgames winners
