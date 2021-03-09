@@ -604,10 +604,10 @@
 * find easiest way to jump in to project on Quest 2 
 * watch fcc video on js13kgames winners
 
-### Day 35: 08/03/2021 
+### Day 36: 09/03/2021 
 
-**Today's Progress**: After googleing how the reduce method works, got sidetracked in to what the 'prototype' in Array.prototype.reduce() meant. I am still looking in to it but my loose understanding so far is that every object has a prototype and each prototype has a prototype (a pattern that continues untill null is reached). I'm still trying to understnad whether this applies to all JS objects or just a subset, but it's interesting for sure.
-**Thoughts:** Happy that I took the time to research something that I had clicked on many times when looking in to another JS method. This hour of coding is about digging deeper in to topics and broadening my unserstanding of not just React of even JS but programming in general.
+**Today's Progress**: Finished totalling function and Jest/Enyme tests
+**Thoughts:** Happy with the speed I managed to execute that feature. After only a week or so of spending more time in React, I already feel back in the swing of things
 
 **Link to work:** [expense_app](https://github.com/TimLafosse/expense_app)
 
