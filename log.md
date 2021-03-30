@@ -759,3 +759,29 @@
 * try and minify + strip down spiderman code (make a smaller room + platforms)
 * find easiest way to jump in to project on Quest 2 
 * watch fcc video on js13kgames winners
+
+### Day 42/3: 28 + 30/03/2021 
+
+**Today's Progress**: Continued experimenting with Firebase, in particular how subscriptions work. I also read about Rest parameters and how they differ to the syntactically similar spread operator
+**Thoughts:** WHile I am spending a little longer than I'd like toying around with Firebase, I think it's necessary. I haven't done much stuff with databases before so should ensure I understand ones capabilites before integrating in to my main code.
+
+**Link to work:** [expense_app](https://github.com/TimLafosse/expense_app)
+
+**Current todo**: Continue settin up and adding features until I get to the point where I have a live app that I can set up authentication on with Amplify/Elastic beanstalk
+
+**Shelved misc todos**
+* Finish reading [MDN docs on prototypes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/getPrototypeOf)
+* Ruby script to automate adding new log entry
+* implement Firebase authentication with google to keep expenses private
+* wrtie in programming journal more
+
+**Shelved A-frame todos**
+* Message Slack response about collision listener example if still stuck
+* categorise todos and create a projects section
+* SECURE Watir script created
+* Find out how to commit an push from rubymine
+* Finish A-frame school so I can start on game
+* Play about with editing code of games in js13k that used a-frame
+* try and minify + strip down spiderman code (make a smaller room + platforms)
+* find easiest way to jump in to project on Quest 2 
+* watch fcc video on js13kgames winners
