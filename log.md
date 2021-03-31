@@ -785,3 +785,34 @@
 * try and minify + strip down spiderman code (make a smaller room + platforms)
 * find easiest way to jump in to project on Quest 2 
 * watch fcc video on js13kgames winners
+
+
+### Day 44: 31/03/2021 
+
+**Today's Progress**: Started integrating Firebase in to Redux app main code, allowing changes to Redux store to be passed in from the database where they are saved. This will mean edits made in the browser in the app will eventually be saved and accessible by the user later on. I also experimented with using destrucured syntax for default values of a function. Not sure if I understand/prefer this yet though.
+**Thoughts:** Happy to start implementing a significant feature in to this project. I think this will be the largest refactor I've done on a project before so hopefully it is worth it and not too painful
+
+**Link to work:** [expense_app](https://github.com/TimLafosse/expense_app)
+
+**Current todo**: Continue settin up and adding features until I get to the point where I have a live app that I 
+
+**Shelved misc todos**
+* Research destructured syntax for adding default values to functions and ensure it is understood.
+* Finish reading [MDN docs on prototypes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/getPrototypeOf)
+* Ruby script to automate adding new log entry
+* try out set up of authentication on with Amplify/Elastic beanstalk
+* deploy using Hashistack continuous deployment pipeline
+* Add cryptotracking using graphQL / Appolo
+* add graph tracker for when cheap energy is available using Octopus Energy API
+* wrtie in programming journal more
+
+**Shelved A-frame todos**
+* Message Slack response about collision listener example if still stuck
+* categorise todos and create a projects section
+* SECURE Watir script created
+* Find out how to commit an push from rubymine
+* Finish A-frame school so I can start on game
+* Play about with editing code of games in js13k that used a-frame
+* try and minify + strip down spiderman code (make a smaller room + platforms)
+* find easiest way to jump in to project on Quest 2 
+* watch fcc video on js13kgames winners
