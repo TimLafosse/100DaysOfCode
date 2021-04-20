@@ -1726,3 +1726,37 @@
 * try and minify + strip down spiderman code (make a smaller room + platforms)
 * find easiest way to jump in to project on Quest 2 
 * watch fcc video on js13kgames winners
+
+### Day 48: 20/04/2021 
+
+**Today's Progress**: Finished wiring up set_expenses so the app loads expenses in the database using startSetExpenses
+**Thoughts:** Left quite a large gap between now and the last time so it took me a while to pick from where I left off. THink I'm nearly done with setting up my database, next is Authentication!
+
+**Link to work:** [expense_app](https://github.com/TimLafosse/expense_app)
+
+**Current todo**: Continue settin up and adding features until I get to the point where I have a live app that I 
+
+**Shelved misc todos**
+* upgrade dependencies
+* Research destructured syntax for adding default values to functions and ensure it is understood.
+* Finish reading [MDN docs on prototypes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/getPrototypeOf)
+* Ruby script to automate adding new log entry
+* try out set up of authentication on with Amplify/Elastic beanstalk
+* deploy using Hashistack continuous deployment pipeline
+* Add cryptotracking using graphQL / Appolo
+* add graph tracker for when cheap energy is available using Octopus Energy API
+* wrtie in programming journal more
+
+**Shelved A-frame todos**
+* Message Slack response about collision listener example if still stuck
+* categorise todos and create a projects section
+* SECURE Watir script created
+* Find out how to commit an push from rubymine
+* Finish A-frame school so I can start on game
+* Play about with editing code of games in js13k that used a-frame
+* try and minify + strip down spiderman code (make a smaller room + platforms)
+* find easiest way to jump in to project on Quest 2 
+* watch fcc video on js13kgames winners
+
+**Cool resources
+* Nick Bull interactive JS learning game (see twitter)
