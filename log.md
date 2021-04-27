@@ -1673,7 +1673,7 @@
 
 **Link to work:** [expense_app](https://github.com/TimLafosse/expense_app)
 
-**Current todo**: Continue settin up and adding features until I get to the point where I have a live app that I 
+**Current todo**: Continue settin up and adding features until I get to the point where I have a live app
 
 **Shelved misc todos**
 * Research destructured syntax for adding default values to functions and ensure it is understood.
@@ -1703,7 +1703,7 @@
 
 **Link to work:** [expense_app](https://github.com/TimLafosse/expense_app)
 
-**Current todo**: Continue settin up and adding features until I get to the point where I have a live app that I 
+**Current todo**: Continue settin up and adding features until I get to the point where I have a live app 
 
 **Shelved misc todos**
 * upgrade dependencies
@@ -1734,7 +1734,40 @@
 
 **Link to work:** [expense_app](https://github.com/TimLafosse/expense_app)
 
-**Current todo**: Continue settin up and adding features until I get to the point where I have a live app that I 
+**Current todo**: Continue settin up and adding features until I get to the point where I have a live app
+
+**Shelved misc todos**
+* upgrade dependencies
+* Research destructured syntax for adding default values to functions and ensure it is understood.
+* Finish reading [MDN docs on prototypes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/getPrototypeOf)
+* Ruby script to automate adding new log entry
+* try out set up of authentication on with Amplify/Elastic beanstalk
+* deploy using Hashistack continuous deployment pipeline
+* Add cryptotracking using graphQL / Appolo
+* add graph tracker for when cheap energy is available using Octopus Energy API
+* wrtie in programming journal more
+
+**Shelved A-frame todos**
+* Message Slack response about collision listener example if still stuck
+* categorise todos and create a projects section
+* SECURE Watir script created
+* Find out how to commit an push from rubymine
+* Finish A-frame school so I can start on game
+* Play about with editing code of games in js13k that used a-frame
+* try and minify + strip down spiderman code (make a smaller room + platforms)
+* find easiest way to jump in to project on Quest 2 
+* watch fcc video on js13kgames winners
+
+**Cool resources
+* Nick Bull interactive JS learning game (see twitter)
+
+### Day 49: 27/04/2021 
+
+**Today's Progress**: Picked back up my OSRS bot as a project middle ground between a hobby in someonthing I used to enjoy a lot and productivity, being brushing up on my python skills. I learned about what the __name__ variable is and when you run your script, the __name__ variable equals __main__. When you import the containing script, it will contain the name of the script.
+**Thoughts:** I woke up this morning dragging my feet towards the keyboard. I didn't have a strong desire to work on my expense app or work on adding a testing suite to a private project, making it a perfect time for me to pick my bot back up. Last time I worked on it, I was a much worse progrmammer, and even then was close to cracking it. This time I musnt worry about future jobs or big picture stuff. Not before getting an OSRS prototype working as the template I am using is based of RS2.
+**Link to work:** [expense_app](https://github.com/TimLafosse/expense_app)
+
+**Current todo**: Get a simple dropmine prototype working for Pyautogui OSRS bot
 
 **Shelved misc todos**
 * upgrade dependencies
