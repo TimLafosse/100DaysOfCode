@@ -1793,3 +1793,37 @@
 
 **Cool resources
 * Nick Bull interactive JS learning game (see twitter)
+
+### Day 50: 04/05/2021 
+
+**Today's Progress**: Continued looking through my old progress + the template used in my OSRS bot. Reminding myself what tuples (remembering how they are immutable amongst other things) as well as exploring the where method from numpy, which I am still a little unsure of.
+**Thoughts:** I'm halway through what has been a great few months of learning. The main lesson I've learned is that it's alright to try out new things, as long as you stick with one in the end. THis chalenge has allowed me to explore game development in a traditional (C++) as well as experimental (A-frame-js) and conclude that it is not for me. I feel much more confident in the ReactJS I am working on as well as the Python in the OSRS bot and less likely to jump ship for whatever new technology that crosses my mind.
+**Link to work:** [expense_app](https://github.com/TimLafosse/expense_app)
+
+**Current todo**: Get a simple dropmine prototype working for Pyautogui OSRS bot by reading through and understanding example
+
+**Shelved misc todos**
+* understand where mtheod from numpy
+* upgrade dependencies
+* Research destructured syntax for adding default values to functions and ensure it is understood.
+* Finish reading [MDN docs on prototypes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/getPrototypeOf)
+* Ruby script to automate adding new log entry
+* try out set up of authentication on with Amplify/Elastic beanstalk
+* deploy using Hashistack continuous deployment pipeline
+* Add cryptotracking using graphQL / Appolo
+* add graph tracker for when cheap energy is available using Octopus Energy API
+* wrtie in programming journal more
+
+**Shelved A-frame todos**
+* Message Slack response about collision listener example if still stuck
+* categorise todos and create a projects section
+* SECURE Watir script created
+* Find out how to commit an push from rubymine
+* Finish A-frame school so I can start on game
+* Play about with editing code of games in js13k that used a-frame
+* try and minify + strip down spiderman code (make a smaller room + platforms)
+* find easiest way to jump in to project on Quest 2 
+* watch fcc video on js13kgames winners
+
+**Cool resources
+* Nick Bull interactive JS learning game (see twitter)
