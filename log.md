@@ -1758,7 +1758,7 @@
 * find easiest way to jump in to project on Quest 2 
 * watch fcc video on js13kgames winners
 
-**Cool resources
+**Cool resources**
 * Nick Bull interactive JS learning game (see twitter)
 
 ### Day 49: 27/04/2021 
@@ -1791,7 +1791,7 @@
 * find easiest way to jump in to project on Quest 2 
 * watch fcc video on js13kgames winners
 
-**Cool resources
+**Cool resources**
 * Nick Bull interactive JS learning game (see twitter)
 
 ### Day 50: 04/05/2021 
@@ -1803,7 +1803,7 @@
 **Current todo**: Get a simple dropmine prototype working for Pyautogui OSRS bot by reading through and understanding example
 
 **Shelved misc todos**
-* understand where mtheod from numpy
+* understand where method from numpy comes from 
 * upgrade dependencies
 * Research destructured syntax for adding default values to functions and ensure it is understood.
 * Finish reading [MDN docs on prototypes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/getPrototypeOf)
@@ -1825,5 +1825,47 @@
 * find easiest way to jump in to project on Quest 2 
 * watch fcc video on js13kgames winners
 
-**Cool resources
+**Cool resources**
+* Nick Bull interactive JS learning game (see twitter)
+
+
+### Day 51 - 53: 05-09/05/2021 
+
+**Today's Progress**: 
+Day 51/52 I worked on my OSRS bot and most of the issues I faced were to do with getting the template script working. <br/>
+Today, I tried out some Solidity via CryptoZombies and worked through the first level of Crypto Zombies and am loving it so far. <br/>
+**Thoughts:** 
+This is likely the 4/5th technology I've experimented with since starting this challenge but I have had my eye on Solidity for a while now and it ties <br/>
+in perfectly with my recent interest in Crypto and smart contracts. I've alway s struggled to think of a intriguing back_end to pair with my ReactJS <br/>
+skills and I think Solidity would tie perfectly. Those few weeks I spend on C++ are proving useful as some of the structure of Solidity bears resemblance <br/> to Solidity.
+**Link to work:** [Crypto_zombies_progress](https://share.cryptozombies.io/en/lesson/1/share/Tim)
+
+**Current todo**: Get a simple dropmine prototype working for Pyautogui OSRS bot by reading through and understanding example
+
+**Shelved misc todos**
+* tidy up markdown (Hadn't realised how terrible these entries looked...)
+* separate todos into sections
+* understand where method from numpy comes from 
+* upgrade dependencies
+* Research destructured syntax for adding default values to functions and ensure it is understood.
+* Finish reading [MDN docs on prototypes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/getPrototypeOf)
+* Ruby script to automate adding new log entry
+* try out set up of authentication on with Amplify/Elastic beanstalk
+* deploy using Hashistack continuous deployment pipeline
+* Add cryptotracking using graphQL / Appolo
+* add graph tracker for when cheap energy is available using Octopus Energy API
+* wrtie in programming journal more
+
+**Shelved A-frame todos**
+* Message Slack response about collision listener example if still stuck
+* categorise todos and create a projects section
+* SECURE Watir script created
+* Find out how to commit an push from rubymine
+* Finish A-frame school so I can start on game
+* Play about with editing code of games in js13k that used a-frame
+* try and minify + strip down spiderman code (make a smaller room + platforms)
+* find easiest way to jump in to project on Quest 2 
+* watch fcc video on js13kgames winners
+
+**Cool resources**
 * Nick Bull interactive JS learning game (see twitter)
